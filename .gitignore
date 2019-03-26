@@ -1,9 +1,9 @@
 static/
-dist/
-lib/
-build/
+# dist/
+# lib/
+# build/
 node_modules
-website/src/docs/
+website/
 npm-debug.log
 !website/static/
 yarn-error.log
