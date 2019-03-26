@@ -95,7 +95,7 @@ const knownListItemDepthClasses = {
 
 const anchorAttr = ['className', 'href', 'rel', 'target', 'title'];
 
-const imgAttr = ['alt', 'className', 'height', 'src', 'width'];
+const imgAttr = ['alt', 'className', 'height', 'src', 'width', 'data-id'];
 
 let lastBlock;
 

@@ -47,7 +47,7 @@ const boldValues = ['bold', 'bolder', '500', '600', '700', '800', '900'];
 const notBoldValues = ['light', 'lighter', '100', '200', '300', '400'];
 
 const anchorAttr = ['className', 'href', 'rel', 'target', 'title'];
-const imgAttr = ['alt', 'className', 'height', 'src', 'width'];
+const imgAttr = ['alt', 'className', 'height', 'src', 'width', 'data-id'];
 
 const knownListItemDepthClasses = {
   [cx('public/DraftStyleDefault/depth0')]: 0,
